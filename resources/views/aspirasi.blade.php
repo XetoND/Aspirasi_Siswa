@@ -44,7 +44,7 @@
                             <label class="form-label fw-bold">Kategori</label>
                                         {{-- @foreach ($kategori as $kat) --}}
                                         <div>
-                                            <select class="form-control" id="id_kategori1" name="kategori_id" class="form-control @error('kategori_id') is-invalid @enderror">
+                                            <select id="id_kategori1" name="kategori_id" class="form-select @error('kategori_id') is-invalid @enderror">
                                                 <option value="1">Kebersihan</option>
                                                 <option value="2">Keamanan</option>
                                                 <option value="3">Kesehatan</option>

@@ -9,7 +9,7 @@
             <Article>
                 <h1 class="fw-bold mb-2">Layanan Aspirasi Siswa</h1>
                 <p>Selamat datang di Layanan Pengaduan Sekolah, disini tempat untuk para siswa/i mengajukan
-                    aspirasi nya sebagai mana siswa/i SMK Telkom Jakarta juga merupakan Warga SMK Telkom</p>
+                    aspirasi nya sebagai mana siswa/i SMK Telkom Jakarta juga merupakan Warga SMK Telkom.</p>
                 <p>Untuk memulai pengajuan silahkan klik tombol dibawah ini dan masukkan aspirasi kalian!
                 </p>
             </Article>
