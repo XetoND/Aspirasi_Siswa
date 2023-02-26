@@ -32,7 +32,7 @@ class AspirasiController extends Controller
         $kategori = Kategori::all();
         $id = abs($noUrut + 1);
         return View('check', [
-            'title' => 'Pengaduan',
+            'title' => 'Aspirasi',
             'aspirasi' => $aspirasi->fillter(request(['search']))->get(),
             'no' => $id,
             'kategori' => $kategori,
