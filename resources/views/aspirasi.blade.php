@@ -22,8 +22,9 @@
             @endif
             <div class="card">
                 <div class="card-body p-5">
+                    <h2>Isi Data Aspirasi</h2>
                     <form action="/aspirasi/store" method="POST">
-                        @csrf
+                        @csrf 
                         <div class="mb-3">
                             <label class="form-label fw-bold">Nomor Pengaduan</label>
                             <input type="text" name="id" class="form-control text-dark fw-bold" readonly

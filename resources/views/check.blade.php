@@ -36,7 +36,7 @@
                                         <input type="text" required name="search" value="{{ request('search') }}"
                                             class="form-control" placeholder="Masukkan Nomor Pengaduan"
                                             aria-label="Recipient's username" aria-describedby="button-addon2">
-                                        <button class="btn btn-outline-secondary" type="submit" id="button-addon2" style="background-color: #fffffff8"><i
+                                        <button class="btn btn-success" type="submit" id="button-addon2"><i
                                                 class="bi bi-search"></i></button>
                                     </div>
                                 </form>
@@ -99,7 +99,7 @@
                                             5
                                         </label></div>
                                     <button type="submit" class="btn btn-secondary text-light"><i
-                                            class="bi bi-send-fill"></i> </button>
+                                            class="bi bi-send-fill"></i></button>
                                 </form>
                                 @endif
                         

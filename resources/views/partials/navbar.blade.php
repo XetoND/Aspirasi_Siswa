@@ -77,8 +77,8 @@
        
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-          <button type="submit" class="btn btn-primary">Login</button>
+          <button type="button" class="btn btn-outline-danger" data-bs-dismiss="modal">Close</button>
+          <button type="submit" class="btn btn-outline-primary">Login</button>
         </form>
         </div>
       </div>
